@@ -13,6 +13,7 @@ export default function App() {
       
       <Seva />
       <Vyapar />
+      import Dashboard from './dashboard.jsx'
     </div>
   )
 }
