@@ -1,6 +1,7 @@
 import Seva from './seva.jsx'
 import Vyapar from './vyapar.jsx'
 import Skill from './skill.jsx'
+import Dashboard from './dashboard.jsx'
 
 export default function App() {
   return (
@@ -13,7 +14,9 @@ export default function App() {
       
       <Seva />
       <Vyapar />
-      import Dashboard from './dashboard.jsx'
+      <Skill />
+      <Dashboard />
+      
     </div>
   )
 }
