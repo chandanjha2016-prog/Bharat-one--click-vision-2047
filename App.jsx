@@ -1,5 +1,6 @@
 import Seva from './seva.jsx'
 import Vyapar from './vyapar.jsx'
+import Skill from './skill.jsx'
 
 export default function App() {
   return (
